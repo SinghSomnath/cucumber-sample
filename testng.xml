@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Discovery Test Suite" verbose="1" parallel="tests"
+	thread-count="1" configfailurepolicy="continue">
+	<test name="Testing Discovery.com" annotations="JDK"
+		preserve-order="true">
+		<classes>
+			<class name="com.test.runner.TestRunner" />
+		</classes>
+	</test>
+</suite>
