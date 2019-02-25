@@ -4,10 +4,10 @@ Works with Chrome browser 70.0.+ with Chromedriver 2.43.+
 
 Project Details :
 ------------------
-Base Language - Java ,
-Base Framework - TestNG ,
-BDD Framework - Cucumber ,
-Build Tool - Maven .
+Base Language - Java  
+Base Framework - TestNG  
+BDD Framework - Cucumber  
+Build Tool - Maven .  
 
 The steps are written with BDD format in "discovery.feature" file inside "features" folder .
 The step defintion class is "DiscoveryStepDefinition.java" which is inside "com.cucumber.testdefinitions" package with in "cucumber-sample\src\test\java" folder path  .
