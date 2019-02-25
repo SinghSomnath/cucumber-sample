@@ -21,7 +21,7 @@ To run the test from command line :
 ------------------------------------
 In the command prompt 
 Go inside "cucumber-sample" folder and run "mvn clean compile test" command .
-The "test" phase will invoke SureFire plugin inside "pom.xml" > which will run "testng.xml" > The "testng.xml" will run the runner class which is "TestRunner.java" which is inside com.test.runner "package" with in "cucumber-sample\src\test\java" folder path .
+The "test" phase will invoke SureFire plugin inside "pom.xml" > which will run "testng.xml" > The "testng.xml" will run the runner class which is "TestRunner.java" inside from com.test.runner "package" with in "cucumber-sample\src\test\java" folder path .
 
 To Setup the project in Eclipse :
 -----------------------------------
