@@ -26,4 +26,4 @@ The "test" phase will invoke SureFire plugin inside "pom.xml" > which will run "
 To Setup the project in Eclipse :
 -----------------------------------
 1. Install EGit plugin in Eclipse .
-2. Import the project buy right clicking "import" inside eclipse > Select "Git" - "Projects From Git" - select "Clone URI" -  give uri as https://github.com/SinghSomnath/cucumber-sample.git filling your git credentials in the form . 
+2. Import the project by right clicking "import" inside eclipse > Select "Git" - "Projects From Git" - select "Clone URI" -  give uri as https://github.com/SinghSomnath/cucumber-sample.git filling your git credentials in the form . 
