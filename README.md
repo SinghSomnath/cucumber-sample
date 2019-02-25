@@ -13,7 +13,7 @@ The steps are written with BDD format in "discovery.feature" file inside "featur
 The step defintion class is "DiscoveryStepDefinition.java" which is inside "com.cucumber.testdefinitions" package with in "cucumber-sample\src\test\java" folder path  .
 The test runner class is "TestRunner.java" which is inside com.test.runner "package" with in "cucumber-sample\src\test\java" folder path .
 The locators are inside "com.discovery.locators" package which is following POM (Page Object Model ) .
-The Selenium wrapper Utililty project is inside "WebDriverUtil.java"
+The Selenium wrapper Utililty project is inside "WebDriverUtil.java".
 The Discovery related project web Utility is inside "DiscoveryWebUtil.java"
 
 
